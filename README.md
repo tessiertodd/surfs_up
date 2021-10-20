@@ -13,16 +13,18 @@ We are helping A Wavy to analyse the temperature in Hawaii as he is looking to o
 
 - 75% of the time, the temperature is 73 or higher in June and 69 or higher in December.
 
-- An additional interesting observation is that there are more temperature measures in June at 1,700 while only 1,517 in December even though December has one more day than June.  This may be related to the Christmas holidays, possibly some days of temperature readings not being taken.
+- Its interesting that the max temperature in June is only 2 degrees higher than max temperature in December... maybe those are anomalies or normal to get some very warm days in December along with some that are not quite so warm.
 
+- An additional interesting observation is that there are more temperature measures in June at 1,700 while only 1,517 in December even though December has one more day than June.  This may be related to the Christmas holidays, possibly some days of temperature readings not being taken.
 
 
 ## Summary
 
-There will need to be 90,398 roles filled over the next few years as those who are eligible take their retirement... with 1,549 current employees eligible for mentorships, that would mean that PH would have to go external to hire 88,849 people.
+### Recommendation Based on Temperature Analysis
+Provided 69 degrees F is considered warm enough for surfers to get out and brave the water (at 20C its warm but not hot), even in December we would expect surfers to get out and be at the shop at least 75% of the days and June that % is higher.  Given the overall temperature statistics at two very different times in the year, I believe its fair to say that Oahu would be a good place for a surf shop.  It would also be important to have an understanding of how temperature affects ice-cream sales, to help A Wavy understand the potential with the ice-cream opporunity as well as the surfs shop revenue.
 
-When we look at the breakdown of people close to retirement by title vs. the mentorship eligible employees - there will be a big gap that will have to be filled by external hires or headcount would have to be reduced (of course other challenges with that). 
+### Additional Weather Metrics to Analyze - Level of Precipitation
+It might also be a good idea to take a look at not only the temperatures in June and December, but also the precipitation levels and the statistics in each month around that measure. It might help us understand how many good surfing days we should expect in each of these months.  While adding in precipitation, we may want to plot on a chart the temperatures vs. precipitation to see if there are any correlations.
 
-![Table for breakdown of eligible mentorships versus retire](https://github.com/tessiertodd/Pewlett-Hackard-Analysis/blob/main/Data/retire_to_mentorship_by_title.png)
-
-There are many retirement-ready people who could train the next generation of Pewlett Hackard employees, but new hires would have to happen quickly to ensure there is time for the close to retirement employees have the time to properly train current PH employees as well as new hires that must occur to fill the impending gaps.  There are however not enough mentorship-eligible employees if PH limits this program to only those born in 1965, they may want to expand to include younger employees to ensure more knowledge transfer can happen before the huge wave of retirement.
+### Additional Weather Metrics to Gather and Analyze - Wind Speed
+While wind speed is not something we currently have available, it would be worth getting some of that data to be able to analyze the metric for June and December.  Wind speed would give us an idea of the quality of the surfing conditions, which is likely related to the number of surfers that would be out on a given day.  We may also want to consider comparing to other metrics we have analyzed to see if there are correlations that could help us ensure we are putting this business in the right location.
