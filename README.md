@@ -1,7 +1,7 @@
 # surfs_up
 
 ## Overview of the statistical analysis
-We are helping A Wavy to analyse the temperature in Hawaii as he is looking to open a surf shop in Oahu.  He is wanting to understand if a surf and ice cream shop is a business that can be profitable year-round venture before investing in a store.  We will be using temperature data from various stations in the area and comparing June temperatures across several years to December temperatures (also across several years) - comparing various statistical measures for each of these two comparison months.  
+We are helping W. Avy to analyse the temperature in Hawaii as he is looking to open a surf shop in Oahu.  He is wanting to understand if a surf and ice cream shop is a business that can be profitable year-round venture before investing in a store.  We will be using temperature data from various stations in the area and comparing June temperatures across several years to December temperatures (also across several years) - comparing various statistical measures for each of these two comparison months.  
 
 ## Results
 
